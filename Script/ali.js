@@ -18,7 +18,7 @@
 
 [rewrite_local]
 
-^https?:\/\/.*\.example\.com url script-analyze-echo-response https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/ali.js
+^https?:\/\/.*\.example\.com url script-analyze-echo-response https://github.com/Army121/github_ddgksf2013_Cuttlefish/blob/master/Script/ali.js
 
 [mitm]
 
